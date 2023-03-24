@@ -9,7 +9,5 @@
 This system was used to Control Robot remotely with some specific features.
 
 ## Sample Modules
-![](pictures/manualControl.png)
-
-![](pictures/register.png)
+![](manualControl.png)
 
